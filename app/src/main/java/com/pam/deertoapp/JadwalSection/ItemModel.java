@@ -1,4 +1,4 @@
-package com.pam.deertoapp;
+package com.pam.deertoapp.JadwalSection;
 
 public class ItemModel {
     String name;

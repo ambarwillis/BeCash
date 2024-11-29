@@ -1,5 +1,7 @@
 package com.pam.deertoapp;
 
+import com.pam.deertoapp.JadwalSection.ItemModel;
+
 import java.util.List;
 
 import retrofit2.Call;
