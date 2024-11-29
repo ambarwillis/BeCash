@@ -12,6 +12,9 @@ public class ItemModel {
     private String date;
     private String imageUrl;
 
+    public ItemModel(){
+    }
+
     public ItemModel(String name, String date, String imageUrl) {
         this.name = name;
         this.date = date;
